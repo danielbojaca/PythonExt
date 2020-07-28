@@ -4,4 +4,4 @@
 
 **Universidad Externado de Colombia**
 
-Despliegue de un elemento interactivo de ipywidgets en la web
+Despliegue de un elemento interactivo de ipywidgets en la web 
