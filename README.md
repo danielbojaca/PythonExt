@@ -1,4 +1,4 @@
-# PythonExt - Proyecto inicial de nbinteract
+# Proyecto inicial de nbinteract
 
 *Daniel Alfonso Bojacá Torres*
 
